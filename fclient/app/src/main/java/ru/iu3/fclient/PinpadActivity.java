@@ -1,5 +1,6 @@
 package ru.iu3.fclient;
 
+
 import android.app.Activity;
 
 import android.app.Activity;
@@ -105,3 +106,7 @@ public class PinpadActivity extends Activity {
         }
     }
 }
+
+
+
+
